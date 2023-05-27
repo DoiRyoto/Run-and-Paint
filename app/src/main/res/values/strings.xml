@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android App</string>
+    <string name="start_button">Start</string>
+    <string name="stop_button">Stop</string>
+    <string name="finish_button">Finish</string>
+    <string name="menu_button_00">00: DEMO</string>
+    <string name="menu_button_01">01: 100</string>
+    <string name="menu_button_02">02: 1000</string>
+    <string name="menu_button_03">03: 3939</string>
+    <string name="mp_license">powered by MPAndroidChart/Apache License 2.0</string>
+    <string name="demo_mode">Demo mode</string>
+</resources>
