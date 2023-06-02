@@ -1,5 +1,7 @@
 package com.example.androidapp;
 
+// 参考：https://qiita.com/juginon/items/0ffe16e027d6024a93f8
+
 public class StepCount {
     float[] filter_data = new float[3];
     float[] axis_result = new float[3];
